@@ -1,16 +1,2 @@
-# flutter_lab_assignment_3
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Blen Berhanu Gebretsadik UGR-8682-15 Section-4
+![Screenshot 2025-05-22 163627](https://github.com/user-attachments/assets/90b4e031-749d-42ce-8a2f-09a2e37a5389) ![Screenshot 2025-05-22 163642](https://github.com/user-attachments/assets/aabdc1e4-c5fa-4a95-89c9-e97ef90fe56c) ![Screenshot 2025-05-22 163654](https://github.com/user-attachments/assets/423e3a9a-2850-4227-8ccf-0b742f2540e4)
